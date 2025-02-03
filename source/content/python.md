@@ -1,8 +1,9 @@
 ---
 title: Python   
 ---
-# Python   
-Таки не двигатели   
+
+> Таки не двигатели
+
 - Python 3.7 и выше   
 - PyCharm от jetBrains (community 2023.2 и выше)   
 - IDLE Python   

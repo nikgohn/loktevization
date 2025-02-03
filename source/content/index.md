@@ -1,8 +1,9 @@
 ---
 title: Универ   
 ---
-# Универ   
-Блять   
+
+> Блять   
+
 [Моделирование объектов и систем управления](modelirovanie-ob-ektov-i-sistem-upravleniia.md)    
 [Диагностика и надежность систем управления](diagnostika-i-nadezhnost-sistem-upravleniia.md)    
 [Компьютерные технологии вычислений](komp-iuternye-tekhnologii-vychislenii.md)    

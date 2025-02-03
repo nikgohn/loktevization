@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "zadaniia-laby.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "zadaniia-laby"
             }
           }
         ],
@@ -200,6 +200,16 @@
   },
   "active": "b4b4124490ba708a",
   "lastOpenFiles": [
+    "teoriia-avtomaticheskogo-upravleniia.md",
+    "zadaniia-laby.md",
+    "1-6-tipovye-dinamicheskie-zven-ia.md",
+    "2-ustoichivost-sau.md",
+    "index.md",
+    "files/image_3.png",
+    "elektronika-i-skhemotekhnika.md",
+    "diagnostika-i-nadezhnost-sistem-upravleniia.md",
+    "4-sintez-sistem-upravleniia.md",
+    "modelirovanie-ob-ektov-i-sistem-upravleniia.md",
     "adv.md",
     "Цифровые технологии в цифровой культуре.md",
     "Теплотехника.md",
@@ -224,20 +234,10 @@
     "Pasted image 20240701093337.png",
     "Pasted image 20240701093316.png",
     "Pasted image 20240701093306.png",
-    "Pasted image 20240322141722.png",
     "ыыыы/teoriia-avtomaticheskogo-upravleniia.md",
     "ыыыы/Anytype.20240908.153212.43.zip",
     "ыыыы",
     "Философия/9. Предмет философии науки и техники.md",
-    "Философия/8. хз2.md",
-    "Философия/7. хз.md",
-    "Философия/6. Философия в россии.md",
-    "Философия/5. Философия нового времени.md",
-    "Философия/4.  Философия средневековья и эпохи возрождения.md",
-    "Философия/3. Античная философия.md",
-    "Философия/2. Философия Древнего Востока.md",
-    "Философия/1. Предмет, структура и функции философии.md",
-    "Философия/0. Введение.md",
     "Философия",
     "Управление",
     "Социология",

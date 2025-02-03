@@ -16,7 +16,9 @@
                 "file": "index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -25,10 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -51,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
             }
           },
           {
@@ -115,10 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -128,8 +143,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
             }
           }
         ]
@@ -151,20 +175,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "category-folder/index.md",
     "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
+    "Цифровые технологии в цифровой культуре.md",
+    "Теплотехника.md",
+    "Сортировка.md",
+    "Плюсы.md",
+    "Механика жикостей.md",
+    "Метрология.md",
+    "Кибербезопасность.md",
+    "Изучение оценок параметров распределений случайных величин.md",
+    "Вероятности.md",
+    "Бодлер.md",
+    "Без названия.md",
+    "Без названия 1.md",
+    "Some note.md",
+    "Pasted image 20240701110956.png",
+    "Pasted image 20240701110625.png",
+    "Pasted image 20240701105111.png",
+    "Pasted image 20240701101408.png",
+    "Pasted image 20240701094115.png",
+    "Pasted image 20240701093403.png",
+    "Pasted image 20240701093337.png",
+    "Pasted image 20240701093316.png",
+    "Pasted image 20240701093306.png",
+    "Pasted image 20240322141722.png",
+    "adv.md",
+    "ыыыы/teoriia-avtomaticheskogo-upravleniia.md",
+    "ыыыы/Anytype.20240908.153212.43.zip",
+    "ыыыы",
+    "Философия/9. Предмет философии науки и техники.md",
+    "Философия/8. хз2.md",
+    "Философия/7. хз.md",
+    "Философия/6. Философия в россии.md",
+    "Философия/5. Философия нового времени.md",
+    "Философия/4.  Философия средневековья и эпохи возрождения.md",
+    "Философия/3. Античная философия.md",
+    "Философия/2. Философия Древнего Востока.md",
+    "Философия/1. Предмет, структура и функции философии.md",
+    "Философия/0. Введение.md",
+    "Философия",
+    "Управление",
+    "Социология",
+    "Сети",
+    "Практика",
+    "Данные Бойков",
+    "Английский",
+    "category-folder/ыыыы/Anytype.20240908.153212.43.zip"
   ]
 }

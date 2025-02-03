@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "b4b4124490ba708a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,12 +198,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "b4b4124490ba708a",
   "lastOpenFiles": [
-    "category-folder/Some note.md",
+    "adv.md",
     "Цифровые технологии в цифровой культуре.md",
     "Теплотехника.md",
     "Сортировка.md",
+    "category-folder/Some note.md",
     "Плюсы.md",
     "Механика жикостей.md",
     "Метрология.md",
@@ -210,7 +225,6 @@
     "Pasted image 20240701093316.png",
     "Pasted image 20240701093306.png",
     "Pasted image 20240322141722.png",
-    "adv.md",
     "ыыыы/teoriia-avtomaticheskogo-upravleniia.md",
     "ыыыы/Anytype.20240908.153212.43.zip",
     "ыыыы",

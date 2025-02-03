@@ -1,3 +1,6 @@
+---
+title: Универ   
+---
 # Универ   
 Блять   
 [Моделирование объектов и систем управления](modelirovanie-ob-ektov-i-sistem-upravleniia.md)    

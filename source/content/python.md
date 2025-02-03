@@ -1,3 +1,6 @@
+---
+title: Python   
+---
 # Python   
 Таки не двигатели   
 - Python 3.7 и выше   

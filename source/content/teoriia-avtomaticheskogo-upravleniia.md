@@ -313,6 +313,7 @@ $=f(t)e^{-tp} \bigg|_{0}^{\infty}- \int_{0}^{\infty} f(t)(-pe^{-tp}dt)=0-f(0)e^0
 Определить изображение по Лапласу единичной функции   
 Для решения задачи воспользуемся определением преобразования  Лапаласа см. п.1.1
 $F(p)=L[f(t)]=\int_{0} ^{\infty} 1(t) e^{-pt} dt=\int_{0} ^{\infty} e^{-pt} dt=-\frac{1} {p} e^{-pt} \bigg|_{t=\infty}+\frac{1} {p}e^{-pt}  \bigg|_{t=0}=0+\frac{1} {p}=\frac{1} {p}$
+
 **Пример 2**
 Определить изображение по Лапласу линейной нарастающей функции
 $f(t)=t1(t)$, $L[f(t)]-?$
@@ -324,10 +325,13 @@ $F(p)=\int_{0} ^{\infty} te^{-pt}dt=$
 
 $=-\frac{t} {p} e^{-pt} \bigg|_{0}^{\infty}-\int_{0} ^{\infty}-\frac{1} {p} e^{-pt} dt=\lim\limits_{t\to \infty}-\frac{t} {p} e^{-pt}+\frac{t} {p} e^{-pt}\bigg|_{t=0}+\frac{1} {p} \int_{0} ^{\infty}e^{-pt} dt=\lim\limits_{t \to \infty} \frac{t} {e^{-pt}}+0+\frac{1} {p} (-\frac{1} {p} e^{-pt} \bigg|_{0} ^{\infty}=0+0-\frac{1} {p^2} e^{-pt} \bigg|_{0} ^{\infty}=\frac{1} {p^2}$
 Пример 3
+
 $F(p)=\int\limits_0^\infty \sin wt e^{-pt} dt=\biggl|u=\sin wt;du=w\cos wt dt; dv=e^{-pt}dt; v=-\frac{1}{p}e^{-pt}\biggl|=-\frac{1}{p}\sin wt\cdot e^{-pt}\biggl|^\infty_0+\frac{w}{p}\int\limits^\infty_0\cos wt\cdot e^{-pt}dt=0-0+\frac{w}{p}\int\limits^\infty_0\cos wt\cot e^{-pt}dt=\biggl|u=\cos wt; du=-w\sin wtdt;dv=e^{-pt}dt;v=-\frac{1}{p}e^{-pt}\biggl|=\biggl[-\frac{1}{p}\cos wt\cdot e^{-pt} \biggl|^\infty_0-\frac{w}{p}\int\limits^\infty_0 \sin wt\cdot e^{-pt}dt \biggl]\frac{w}{p}=\biggl[ 0+\frac{1}{p}-\frac{w}{p}\int\limits^\infty_0...=\frac{w}{p^2}-\frac{w^2}{p^2}\int\limits^\infty_0 \sin wt\cdot e^{-pt}dt$
 $\int\limits^\infty_0 \sin wt\cdot e^{-pt}dt=I \to I=\frac{w}{p^2}-\frac{w^2}{p^2}$
 $I(1+\frac{w^2}{p^2})=\frac{w}{p^2}\to I=\frac{\frac{w}{p^2}}{1+\frac{w^2}{p^2}}=\frac{w}{p^2+w^2}$
+
 Пример 4
+
 Дана функция времени, найти ее изображение по Лапласу
 $f(t)=te^{-\alpha t}$, $L[f(t)]-?$
 $F(p)=\int_{0} ^{\infty} te^{-\alpha t} e^{-pt} dt=\int_{0} ^{\infty} te^{-(\alpha+p) t}dt=$

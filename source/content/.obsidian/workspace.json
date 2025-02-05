@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zadaniia-laby.md",
+                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zadaniia-laby"
+              "title": "informatsionnoe-obespechenie-sistem-upravlenii"
+            }
+          },
+          {
+            "id": "a59afa277d1b992d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "informatsionnoe-obespechenie-sistem-upravlenii"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,11 +83,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Обратные ссылки для informatsionnoe-obespechenie-sistem-upravlenii"
             }
           },
           {
@@ -142,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Исходящие ссылки из informatsionnoe-obespechenie-sistem-upravlenii"
             }
           },
           {
@@ -157,12 +170,10 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -171,45 +182,42 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Структура informatsionnoe-obespechenie-sistem-upravlenii"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b4b4124490ba708a",
+  "active": "a59afa277d1b992d",
   "lastOpenFiles": [
+    "teoriia-avtomaticheskogo-upravleniia.md",
+    "informatsionnoe-obespechenie-sistem-upravlenii.md",
+    "bolshie-dannie.md",
+    "python.md",
+    "zadaniia-laby.md",
     "diagnostika-i-nadezhnost-sistem-upravleniia.md",
     "elektronika-i-skhemotekhnika.md",
     "index.md",
-    "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "komp-iuternye-tekhnologii-vychislenii.md",
     "modelirovanie-ob-ektov-i-sistem-upravleniia.md",
-    "python.md",
     "tekhnicheskie-sredstva-sistem-upravleniia.md",
-    "teoriia-avtomaticheskogo-upravleniia.md",
-    "zadaniia-laby.md",
     "4-sintez-sistem-upravleniia.md",
     "2-ustoichivost-sau.md",
     "1-6-tipovye-dinamicheskie-zven-ia.md",
@@ -226,7 +234,6 @@
     "Изучение оценок параметров распределений случайных величин.md",
     "Вероятности.md",
     "Бодлер.md",
-    "Без названия.md",
     "Pasted image 20240701110956.png",
     "Pasted image 20240701110625.png",
     "Pasted image 20240701105111.png",

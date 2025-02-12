@@ -999,7 +999,8 @@ $$\begin{cases}A\cdot R\cos\phi - A\cdot I\sin\phi = -1, \\A\cdot R\sin\phi + A\
 Выразим из второго условия R и подставим в первое
 $$R=-I\frac{\cos\phi}{\sin\phi}(**)$$
 $$-A\cdot I\frac{\cos^2\phi}{\sin^2\phi}-A\cdot I\sin\phi=-1$$
-$$\frac{A\cdot I}{\sin\phi}(\cos^2\phi+\sin^2\phi)=1$$$$I=\frac{\sin\phi}{A}$$
+$$\frac{A\cdot I}{\sin\phi}(\cos^2\phi+\sin^2\phi)=1$$
+$$I=\frac{\sin\phi}{A}$$
 Вернёмся к исходным переменным и вместо $I$ подставим то что было обозначено этой буквой. Получается:
 $$-\frac{S_0}{w}\frac{1}{m^2+1}=\frac{\sin\phi}{A}$$
 И отсюда получим выражение для настройки $S_0$

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelectualnie-sistemy-i-tehnologii.md",
+                "file": "teoriia-avtomaticheskogo-upravleniia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intelectualnie-sistemy-i-tehnologii"
+              "title": "teoriia-avtomaticheskogo-upravleniia"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelectualnie-sistemy-i-tehnologii.md",
+                "file": "teoriia-avtomaticheskogo-upravleniia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of intelectualnie-sistemy-i-tehnologii"
+              "title": "Структура teoriia-avtomaticheskogo-upravleniia"
             }
           }
         ],
@@ -158,17 +158,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "b4b4124490ba708a",
   "lastOpenFiles": [
+    "files/Pasted image 20250212133730.png",
+    "files/Pasted image 20250212133450.png",
+    "files/Pasted image 20250212130257.png",
+    "intelectualnie-sistemy-i-tehnologii.md",
+    "informatsionnoe-obespechenie-sistem-upravlenii.md",
+    "bolshie-dannie.md",
+    "teoriia-avtomaticheskogo-upravleniia.md",
+    "files/20250212_111513.jpg",
     "files/Pasted image 20250207005549.png",
     "files/Pasted image 20250207003205.png",
     "files/Pasted image 20250207003147.png",
@@ -176,17 +184,9 @@
     "files/Pasted image 20250207002108.png",
     "files/Pasted image 20250207001021.png",
     "files/Pasted image 20250207000847.png",
-    "files/Pasted image 20250207000147.png",
-    "files/Pasted image 20250207000139.png",
-    "files/Pasted image 20250206232728.png",
-    "index.md",
-    "bolshie-dannie.md",
-    "informatsionnoe-obespechenie-sistem-upravlenii.md",
-    "files/Pasted image 20250206232026.png",
-    "intelectualnie-sistemy-i-tehnologii.md",
-    "teoriia-avtomaticheskogo-upravleniia.md",
     "Архив/zadaniia-laby.md",
     "Архив/index.md",
+    "index.md",
     "Архив/diagnostika-i-nadezhnost-sistem-upravleniia.md",
     "files/image_1o.png.md",
     "Архив/tekhnicheskie-sredstva-sistem-upravleniia.md",

@@ -1,23 +1,25 @@
-# Obsidian / Quartz / GitHub Pages Template
+# Локтевизация
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+Ссылка: https://nikgohn.github.io/loktevization 
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
+Веб версия лекций курса "Управление в технических системах" на основе [Quartz](https://github.com/jackyzha0/quartz) и [obsidian-quartz-template](https://github.com/defenderofbasic/obsidian-quartz-template)
 
-## Basic setup
+## Добавление контента
 
-Full tutorial with screenshots & videos: https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
+В основе текстового наполнения сайта лежат Markdown файлы, находящиеся в [source/content](./source/content), которые можно сделать при помощи [Obsidian](https://obsidian.md/) или любого другого редактора с поддержкой Markdown. Эта же папка является хранилищем Obsidian. HTML генерируется с использованием [Quartz](https://github.com/jackyzha0/quartz). Чтобы сгенерировать HTML локально, выполните команду `npx quartz build --serve` в папке `./source/`.  
 
-It's basically (1) fork this (2) go to repo's "Settings" > "Pages", Under "Build and Deployment" select GitHub Actions. Then go to "Actions" and enable GitHub actions for your fork. Edit the pages in [source/content](./source/content) with Obsidian or any text editor. It generates HTML using [Quartz](https://github.com/jackyzha0/quartz). To generate the HTML locally, run `npx quartz build --serve` in `./source/`
+## Исходные HTML-страницы  
 
-## Raw HTML pages
+В папке [`source/raw_html`](./source/raw_html) находятся файлы, которые копируются в папку сборки при CI.  
+Это позволяет размещать произвольный HTML-контент вне Quartz.  
+Пример: [ссылка](https://nikgohn.github.io/loktevization/raw-html-test.html).  
 
-There is a [source/raw_html](./source/raw_html) folder that gets copied into the build folder in CI. This lets you host arbitrary HTML outside of quartz. Example: https://defenderofbasic.github.io/obsidian-quartz-template/raw-html-test.html
+Существует возможность хоста "сырого HTML" для тех, кто создает HTML-интерфейсы с помощью Claude/ChatGPT, но хочет их доработать или разместить самостоятельно.  
+Также это может быть полезно для создания личного архива веб-страниц и других задач.  
 
-I made the "raw HTML" option for people who are generating HTML UI's with Claude/ChatGPT but want to tweak them/host them themselves. Or make a personal archive of web pages, etc.
+## Дальнейшая кастомизация  
 
-## Further customization
+> Quartz создан для высокой конфигурируемости, даже если у вас нет навыков программирования.  
+> Большинство настроек можно изменить, просто отредактировав `quartz.config.ts` или изменив макет в `quartz.layout.ts`.  
 
-> Quartz is meant to be extremely configurable, even if you don’t know any coding. Most of the configuration you should need can be done by just editing quartz.config.ts or changing the layout in quartz.layout.ts.
-
-https://quartz.jzhao.xyz/configuration
+Подробнее: [Quartz Configuration](https://quartz.jzhao.xyz/configuration).

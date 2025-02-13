@@ -35,8 +35,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "intelectualnie-sistemy-i-tehnologii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура index"
+              "title": "Структура intelectualnie-sistemy-i-tehnologii"
             }
           }
         ],
@@ -183,23 +182,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4b4124490ba708a",
+  "active": "5335364bab9c88c9",
   "lastOpenFiles": [
+    "files/Pasted image 20250213112031.png",
+    "files/Pasted image 20250213111901.png",
+    "files/Pasted image 20250213111050.png",
+    "files/Pasted image 20250213110630.png",
+    "files/Pasted image 20250213104559.png",
+    "files/Pasted image 20250213104127.png",
+    "files/Pasted image 20250213103958.png",
+    "files/Pasted image 20250213103800.png",
+    "files/Pasted image 20250213103330.png",
+    "index.md",
     "files/Pasted image 20250213100502.png",
     "intelectualnie-sistemy-i-tehnologii.md",
     "files/Pasted image 20250213095626.png",
-    "files/20250212_111513.jpg",
-    "files/20250205_170839.jpg",
-    "files/20250213_095313.jpg",
-    "index.md",
-    "files/Pasted image 20250213095035.png",
-    "files/Pasted image 20250213094804.png",
     "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "Архив/index.md",
-    "files/Pasted image 20250213093704.png",
-    "files/Pasted image 20250213093622.png",
-    "files/Pasted image 20250213091648.png",
-    "files/Pasted image 20250213091633.png",
     "teoriia-avtomaticheskogo-upravleniia.md",
     "bolshie-dannie.md",
     "Архив/zadaniia-laby.md",

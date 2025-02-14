@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5335364bab9c88c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tau-laby.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tau-laby"
-            }
-          },
-          {
-            "id": "f5e444fb1823ad10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "teoriia-avtomaticheskogo-upravleniia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "teoriia-avtomaticheskogo-upravleniia"
-            }
-          },
-          {
             "id": "b4b4124490ba708a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "informatsionnoe-obespechenie-sistem-upravlenii"
+            }
+          },
+          {
+            "id": "777b28585ef9d446",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,21 +154,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tau-laby.md",
+                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура tau-laby"
+              "title": "Структура informatsionnoe-obespechenie-sistem-upravlenii"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5335364bab9c88c9",
+  "active": "b4b4124490ba708a",
   "lastOpenFiles": [
     "index.md",
-    "tau-laby.md",
+    "informatsionnoe-obespechenie-sistem-upravlenii.md",
+    "intelectualnie-sistemy-i-tehnologii.md",
+    "Архив/index.md",
     "teoriia-avtomaticheskogo-upravleniia.md",
+    "tau-laby.md",
     "files/Pasted image 20250214093727.png",
     "files/Pasted image 20250214093427.png",
     "files/Pasted image 20250214093233.png",
-    "intelectualnie-sistemy-i-tehnologii.md",
     "files/Pasted image 20250213112031.png",
     "files/Pasted image 20250213111901.png",
     "files/Pasted image 20250213111050.png",
@@ -211,8 +199,6 @@
     "files/Pasted image 20250213104559.png",
     "files/Pasted image 20250213104127.png",
     "files/Pasted image 20250213103958.png",
-    "informatsionnoe-obespechenie-sistem-upravlenii.md",
-    "Архив/index.md",
     "bolshie-dannie.md",
     "Архив/zadaniia-laby.md",
     "Архив/diagnostika-i-nadezhnost-sistem-upravleniia.md",

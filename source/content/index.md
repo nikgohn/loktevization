@@ -6,6 +6,7 @@ title: Универ
 
 Харитонов:
 [Теория автоматического управления](teoriia-avtomaticheskogo-upravleniia.md) - В процессе редактуры/коммунизма
+[Лабораторные работы по ТАУ](tau-laby) – Включает в себя Курчач
 [Информационное обеспечение систем управления](informatsionnoe-obespechenie-sistem-upravlenii.md)    
 Марьясин
 [Интеллектуальные системы и технологии](intelectualnie-sistemy-i-tehnologii)

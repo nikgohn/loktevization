@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proektirovanie-system-avtomatizacii.md",
+                "file": "teoriia-avtomaticheskogo-upravleniia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "proektirovanie-system-avtomatizacii"
+              "title": "teoriia-avtomaticheskogo-upravleniia"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -169,24 +170,24 @@
   },
   "active": "b4b4124490ba708a",
   "lastOpenFiles": [
+    "files/Pasted image 20250219131812.png",
+    "files/Pasted image 20250219131700.png",
+    "files/20250219_130642.jpg",
+    "files/Pasted image 20250219112228.png",
+    "files/Pasted image 20250219111231.png",
+    "proektirovanie-system-avtomatizacii.md",
     "files/Pasted image 20250215150327.png",
     "files/Pasted image 20250215145224.png",
     "intelectualnie-sistemy-i-tehnologii.md",
     "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "index.md",
     "Архив/index.md",
-    "proektirovanie-system-avtomatizacii.md",
     "files/Pasted image 20250215142038.png",
     "files/Pasted image 20250215141529.png",
     "teoriia-avtomaticheskogo-upravleniia.md",
     "tau-laby.md",
     "files/Pasted image 20250214093727.png",
     "files/Pasted image 20250214093427.png",
-    "files/Pasted image 20250214093233.png",
-    "files/Pasted image 20250213112031.png",
-    "files/Pasted image 20250213111901.png",
-    "files/Pasted image 20250213111050.png",
-    "files/Pasted image 20250213110630.png",
     "bolshie-dannie.md",
     "Архив/zadaniia-laby.md",
     "Архив/diagnostika-i-nadezhnost-sistem-upravleniia.md",

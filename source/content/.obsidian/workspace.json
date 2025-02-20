@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "tau-laby.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tau-laby"
+            }
+          },
+          {
+            "id": "96d531172db944eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "teoriia-avtomaticheskogo-upravleniia.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "teoriia-avtomaticheskogo-upravleniia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
+                "file": "teoriia-avtomaticheskogo-upravleniia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для informatsionnoe-obespechenie-sistem-upravlenii"
+              "title": "Обратные ссылки для teoriia-avtomaticheskogo-upravleniia"
             }
           },
           {
@@ -141,16 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
+                "file": "teoriia-avtomaticheskogo-upravleniia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура informatsionnoe-obespechenie-sistem-upravlenii"
+              "title": "Структура teoriia-avtomaticheskogo-upravleniia"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,8 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4b4124490ba708a",
+  "active": "96d531172db944eb",
   "lastOpenFiles": [
+    "tau-laby.md",
+    "teoriia-avtomaticheskogo-upravleniia.md",
+    "Архив/zadaniia-laby.md",
+    "bolshie-dannie.md",
     "files/Pasted image 20250219131812.png",
     "files/Pasted image 20250219131700.png",
     "files/20250219_130642.jpg",
@@ -184,12 +203,7 @@
     "Архив/index.md",
     "files/Pasted image 20250215142038.png",
     "files/Pasted image 20250215141529.png",
-    "teoriia-avtomaticheskogo-upravleniia.md",
-    "tau-laby.md",
     "files/Pasted image 20250214093727.png",
-    "files/Pasted image 20250214093427.png",
-    "bolshie-dannie.md",
-    "Архив/zadaniia-laby.md",
     "Архив/diagnostika-i-nadezhnost-sistem-upravleniia.md",
     "files/image_1o.png.md",
     "Архив/tekhnicheskie-sredstva-sistem-upravleniia.md",

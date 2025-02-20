@@ -1,3 +1,9 @@
 {
-  "attachmentFolderPath": "files"
+  "attachmentFolderPath": "files",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

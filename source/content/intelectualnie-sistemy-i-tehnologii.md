@@ -739,17 +739,8 @@ $$accuracy = \frac{TP + TN}{TP + TN + FP + FN}$$
 AUC (Area Under Curve) – площадь ROC-AUC кривой. Для бинарной классификации:
 
 $$\frac{\sum_{i=1}^{q}\sum_{j=1}^{q} I[y_i < y_j] I'[a_i < a_j]}{\sum_{i=1}^{q}\sum_{j=1}^{q} I[y_i < y_j]},$$
-$$I'[a_i < a_j] =
-\begin{cases}
-0, & a_i > a_j, \\
-0.5 & a_i = a_j, \\
-1, & a_i < a_j,
-\end{cases}$$
-$$I[y_i < y_j] =
-\begin{cases}
-0, & y_i \ge y_j, \\
-1, & y_i < y_j,
-\end{cases}$$
+$$I'[a_i < a_j] = \begin{cases} 0, & a_i > a_j, \\ 0.5 & a_i = a_j, \\ 1, & a_i < a_j, \end{cases}$$
+$$I[y_i < y_j] = \begin{cases} 0, & y_i \ge y_j, \\ 1, & y_i < y_j, \end{cases}$$
 где $y_i'$ – ответ алгоритма на i-м объекте; $y_i$ – его метка (класс); $\ell$ – число объектов в тесте.
 
 ## Функция потерь ≠ метрика качества

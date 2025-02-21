@@ -58,7 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -173,19 +173,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "b4b4124490ba708a",
   "lastOpenFiles": [
-    "teoriia-avtomaticheskogo-upravleniia.md",
+    "intelectualnie-sistemy-i-tehnologii.md",
     "tau-laby.md",
+    "files/Pasted image 20250221111428.png",
+    "files/Pasted image 20250221111302.png",
+    "teoriia-avtomaticheskogo-upravleniia.md",
     "Архив/zadaniia-laby.md",
     "bolshie-dannie.md",
     "files/Pasted image 20250219131812.png",
@@ -196,13 +199,10 @@
     "proektirovanie-system-avtomatizacii.md",
     "files/Pasted image 20250215150327.png",
     "files/Pasted image 20250215145224.png",
-    "intelectualnie-sistemy-i-tehnologii.md",
     "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "index.md",
     "Архив/index.md",
     "files/Pasted image 20250215142038.png",
-    "files/Pasted image 20250215141529.png",
-    "files/Pasted image 20250214093727.png",
     "Архив/diagnostika-i-nadezhnost-sistem-upravleniia.md",
     "files/image_1o.png.md",
     "Архив/tekhnicheskie-sredstva-sistem-upravleniia.md",

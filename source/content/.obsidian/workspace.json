@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -184,6 +185,7 @@
   },
   "active": "b4b4124490ba708a",
   "lastOpenFiles": [
+    "files/Pasted image 20250226112607.png",
     "files/Pasted image 20250221151244.png",
     "files/Pasted image 20250221144431.png",
     "files/Pasted image 20250221143720.png",
@@ -200,7 +202,6 @@
     "teoriia-avtomaticheskogo-upravleniia.md",
     "Архив/zadaniia-laby.md",
     "bolshie-dannie.md",
-    "files/Pasted image 20250219131812.png",
     "proektirovanie-system-avtomatizacii.md",
     "index.md",
     "Архив/index.md",

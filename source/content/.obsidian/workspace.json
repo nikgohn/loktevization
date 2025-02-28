@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
+                "file": "intelectualnie-sistemy-i-tehnologii.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "informatsionnoe-obespechenie-sistem-upravlenii"
+              "title": "intelectualnie-sistemy-i-tehnologii"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -155,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teoriia-avtomaticheskogo-upravleniia.md",
+                "file": "intelectualnie-sistemy-i-tehnologii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура teoriia-avtomaticheskogo-upravleniia"
+              "title": "Структура intelectualnie-sistemy-i-tehnologii"
             }
           }
         ],
@@ -185,6 +184,10 @@
   },
   "active": "b4b4124490ba708a",
   "lastOpenFiles": [
+    "files/Pasted image 20250227093047.png",
+    "files/Pasted image 20250227092244.png",
+    "files/Pasted image 20250227084746.png",
+    "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "files/Pasted image 20250226112607.png",
     "files/Pasted image 20250221151244.png",
     "files/Pasted image 20250221144431.png",
@@ -193,12 +196,8 @@
     "files/Pasted image 20250221141838.png",
     "files/Pasted image 20250221133942.png",
     "files/Pasted image 20250221133000.png",
-    "files/Pasted image 20250221131130.png",
-    "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "tau-laby.md",
     "intelectualnie-sistemy-i-tehnologii.md",
-    "files/Pasted image 20250221111428.png",
-    "files/Pasted image 20250221111302.png",
     "teoriia-avtomaticheskogo-upravleniia.md",
     "Архив/zadaniia-laby.md",
     "bolshie-dannie.md",

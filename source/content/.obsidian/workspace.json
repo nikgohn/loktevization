@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -170,6 +171,12 @@
   },
   "active": "b0cbf8ad5ee8a265",
   "lastOpenFiles": [
+    "files/Pasted image 20250319134114.png",
+    "files/Pasted image 20250319131819.png",
+    "files/Pasted image 20250319131645.png",
+    "files/Pasted image 20250319124100.png",
+    "files/Pasted image 20250319104753.png",
+    "files/Pasted image 20250319104722.png",
     "tau-laby.md",
     "teoriia-avtomaticheskogo-upravleniia.md",
     "files/Pasted image 20250312133258.png",
@@ -177,12 +184,7 @@
     "files/Pasted image 20250312125859.png",
     "files/Pasted image 20250312124739.png",
     "files/Pasted image 20250312124445.png",
-    "files/20250312_104357.jpg",
     "informatsionnoe-obespechenie-sistem-upravlenii.md",
-    "files/Pasted image 20250307143741.png",
-    "files/Pasted image 20250307134033.png",
-    "files/Pasted image 20250307105936.png",
-    "files/Pasted image 20250307105047.png",
     "proektirovanie-system-avtomatizacii.md",
     "intelectualnie-sistemy-i-tehnologii.md",
     "Архив/zadaniia-laby.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teoriia-avtomaticheskogo-upravleniia.md",
+                "file": "tau-laby.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teoriia-avtomaticheskogo-upravleniia"
+              "title": "tau-laby"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -171,20 +170,21 @@
   },
   "active": "b0cbf8ad5ee8a265",
   "lastOpenFiles": [
+    "files/Pasted image 20250321085835.png",
+    "files/Pasted image 20250321085812.png",
+    "files/Pasted image 20250321085802.png",
+    "files/Pasted image 20250321085736.png",
+    "files/Pasted image 20250321085724.png",
+    "files/Pasted image 20250321085712.png",
+    "files/Pasted image 20250321085659.png",
+    "informatsionnoe-obespechenie-sistem-upravlenii.md",
+    "Диаграмма классов.md",
+    "tau-laby.md",
+    "teoriia-avtomaticheskogo-upravleniia.md",
     "files/Pasted image 20250319134114.png",
     "files/Pasted image 20250319131819.png",
     "files/Pasted image 20250319131645.png",
     "files/Pasted image 20250319124100.png",
-    "files/Pasted image 20250319104753.png",
-    "files/Pasted image 20250319104722.png",
-    "tau-laby.md",
-    "teoriia-avtomaticheskogo-upravleniia.md",
-    "files/Pasted image 20250312133258.png",
-    "files/Pasted image 20250312125922.png",
-    "files/Pasted image 20250312125859.png",
-    "files/Pasted image 20250312124739.png",
-    "files/Pasted image 20250312124445.png",
-    "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "proektirovanie-system-avtomatizacii.md",
     "intelectualnie-sistemy-i-tehnologii.md",
     "Архив/zadaniia-laby.md",
@@ -208,7 +208,6 @@
     "Теплотехника.md",
     "Сортировка.md",
     "category-folder/Some note.md",
-    "Плюсы.md",
     "ыыыы/Anytype.20240908.153212.43.zip",
     "ыыыы",
     "Философия",

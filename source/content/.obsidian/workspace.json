@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tau-laby.md",
+                "file": "teoriia-avtomaticheskogo-upravleniia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tau-laby"
+              "title": "teoriia-avtomaticheskogo-upravleniia"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teoriia-avtomaticheskogo-upravleniia.md",
+                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура teoriia-avtomaticheskogo-upravleniia"
+              "title": "Структура informatsionnoe-obespechenie-sistem-upravlenii"
             }
           }
         ],
@@ -170,21 +170,20 @@
   },
   "active": "b0cbf8ad5ee8a265",
   "lastOpenFiles": [
+    "informatsionnoe-obespechenie-sistem-upravlenii.md",
+    "files/Pasted image 20250326134442.png",
+    "files/Pasted image 20250326132702.png",
+    "files/Pasted image 20250326130737.png",
+    "files/Pasted image 20250326130010.png",
+    "files/Pasted image 20250326125554.png",
+    "teoriia-avtomaticheskogo-upravleniia.md",
+    "tau-laby.md",
     "files/Pasted image 20250321085835.png",
     "files/Pasted image 20250321085812.png",
     "files/Pasted image 20250321085802.png",
     "files/Pasted image 20250321085736.png",
     "files/Pasted image 20250321085724.png",
-    "files/Pasted image 20250321085712.png",
-    "files/Pasted image 20250321085659.png",
-    "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "Диаграмма классов.md",
-    "tau-laby.md",
-    "teoriia-avtomaticheskogo-upravleniia.md",
-    "files/Pasted image 20250319134114.png",
-    "files/Pasted image 20250319131819.png",
-    "files/Pasted image 20250319131645.png",
-    "files/Pasted image 20250319124100.png",
     "proektirovanie-system-avtomatizacii.md",
     "intelectualnie-sistemy-i-tehnologii.md",
     "Архив/zadaniia-laby.md",

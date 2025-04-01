@@ -22,4 +22,4 @@
 > Quartz создан для высокой конфигурируемости, даже если у вас нет навыков программирования.  
 > Большинство настроек можно изменить, просто отредактировав `quartz.config.ts` или изменив макет в `quartz.layout.ts`.  
 
-Подробнее: [Quartz Configuration](https://quartz.jzhao.xyz/configuration).
+Подробнее: [Quartz Configuration](https://quartz.jzhao.xyz/configuration). 

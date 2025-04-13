@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
+                "file": "teoriia-avtomaticheskogo-upravleniia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура informatsionnoe-obespechenie-sistem-upravlenii"
+              "title": "Структура teoriia-avtomaticheskogo-upravleniia"
             }
           }
         ],
@@ -171,12 +172,13 @@
   "active": "b0cbf8ad5ee8a265",
   "lastOpenFiles": [
     "informatsionnoe-obespechenie-sistem-upravlenii.md",
+    "intelectualnie-sistemy-i-tehnologii.md",
+    "teoriia-avtomaticheskogo-upravleniia.md",
     "files/Pasted image 20250326134442.png",
     "files/Pasted image 20250326132702.png",
     "files/Pasted image 20250326130737.png",
     "files/Pasted image 20250326130010.png",
     "files/Pasted image 20250326125554.png",
-    "teoriia-avtomaticheskogo-upravleniia.md",
     "tau-laby.md",
     "files/Pasted image 20250321085835.png",
     "files/Pasted image 20250321085812.png",
@@ -185,7 +187,6 @@
     "files/Pasted image 20250321085724.png",
     "Диаграмма классов.md",
     "proektirovanie-system-avtomatizacii.md",
-    "intelectualnie-sistemy-i-tehnologii.md",
     "Архив/zadaniia-laby.md",
     "bolshie-dannie.md",
     "index.md",

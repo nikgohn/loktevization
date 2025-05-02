@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teoriia-avtomaticheskogo-upravleniia.md",
+                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teoriia-avtomaticheskogo-upravleniia"
+              "title": "informatsionnoe-obespechenie-sistem-upravlenii"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teoriia-avtomaticheskogo-upravleniia.md",
+                "file": "informatsionnoe-obespechenie-sistem-upravlenii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура teoriia-avtomaticheskogo-upravleniia"
+              "title": "Структура informatsionnoe-obespechenie-sistem-upravlenii"
             }
           }
         ],
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,9 +170,9 @@
   },
   "active": "b0cbf8ad5ee8a265",
   "lastOpenFiles": [
-    "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "intelectualnie-sistemy-i-tehnologii.md",
     "teoriia-avtomaticheskogo-upravleniia.md",
+    "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "files/Pasted image 20250326134442.png",
     "files/Pasted image 20250326132702.png",
     "files/Pasted image 20250326130737.png",

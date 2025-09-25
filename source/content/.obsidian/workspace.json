@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "tipovie-avtomaticheskie-sistemi-regulirovaniya"
             }
-          },
-          {
-            "id": "75870785f3f97561",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "files/IMG_20250911_125044777.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "IMG_20250911_125044777"
-            }
           }
         ]
       }
@@ -56,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -90,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -152,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tipovie-avtomaticheskie-sistemi-regulirovaniya.md",
+                "file": "zashita-intelektualnoy-sobstvennosti.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tipovie-avtomaticheskie-sistemi-regulirovaniya"
+              "title": "Outline of zashita-intelektualnoy-sobstvennosti"
             }
           }
         ],
@@ -166,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,28 +172,29 @@
   },
   "active": "bd59b71a4de1fc3e",
   "lastOpenFiles": [
-    "integrirovannie-proizvodstvennie-sistemi-i-kompleksi.md",
-    "tipovie-avtomaticheskie-sistemi-regulirovaniya.md",
-    "files/IMG_20250911_125044777.jpg",
-    "files/IMG_20250917_173743127.jpg",
-    "files/IMG_20250917_165348018.jpg",
-    "files/IMG_20250917_164659505.jpg",
-    "files/Pasted image 20250917155847.png",
-    "files/Pasted image 20250917155758.png",
+    "files/IMG_20250925_123030538.jpg",
+    "files/Pasted image 20250924185144.png",
+    "files/Pasted image 20250924183635.png",
+    "files/IMG_20250924_182759294.jpg",
+    "files/Pasted image 20250924181028.png",
+    "files/Pasted image 20250924180846.png",
+    "files/Pasted image 20250924175118.png",
+    "files/Pasted image 20250924172438.png",
+    "files/Pasted image 20250924170640.png",
+    "files/Pasted image 20250924165103.png",
+    "files/Pasted image 20250924163103.png",
     "robototechnika-i-mehanika.md",
-    "files/Pasted image 20250915184452.png",
-    "files/Pasted image 20250915184352.png",
-    "files/Pasted image 20250915184335.png",
-    "files/Pasted image 20250915184214.png",
+    "integrirovannie-proizvodstvennie-sistemi-i-kompleksi.md",
+    "Mashinnoe-obuchenie.md",
+    "teoriia-avtomaticheskogo-upravleniia.md",
+    "tipovie-avtomaticheskie-sistemi-regulirovaniya.md",
+    "zashita-intelektualnoy-sobstvennosti.md",
+    "informatsionnoe-obespechenie-sistem-upravlenii.md",
+    "ekonomika-i-organizacia-proizvodstva.md",
     "intelectualnie-sistemy-i-tehnologii.md",
     "index.md",
-    "Mashinnoe-obuchenie.md",
-    "ekonomika-i-organizacia-proizvodstva.md",
-    "zashita-intelektualnoy-sobstvennosti.md",
     "optimalnoe-upravlenie.md",
-    "teoriia-avtomaticheskogo-upravleniia.md",
     "tau-laby.md",
-    "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "Презентация.md",
     "Диаграмма классов.md",
     "proektirovanie-system-avtomatizacii.md",

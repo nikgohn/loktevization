@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af7d01e667098266",
+        "id": "4d3de7deb7053144",
         "type": "tabs",
         "children": [
           {
-            "id": "bd59b71a4de1fc3e",
+            "id": "f4553074aa9ad65c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -170,30 +169,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd59b71a4de1fc3e",
+  "active": "f4553074aa9ad65c",
   "lastOpenFiles": [
-    "files/IMG_20250925_123030538.jpg",
-    "files/Pasted image 20250924185144.png",
-    "files/Pasted image 20250924183635.png",
-    "files/IMG_20250924_182759294.jpg",
-    "files/Pasted image 20250924181028.png",
-    "files/Pasted image 20250924180846.png",
-    "files/Pasted image 20250924175118.png",
-    "files/Pasted image 20250924172438.png",
-    "files/Pasted image 20250924170640.png",
-    "files/Pasted image 20250924165103.png",
-    "files/Pasted image 20250924163103.png",
-    "robototechnika-i-mehanika.md",
     "integrirovannie-proizvodstvennie-sistemi-i-kompleksi.md",
-    "Mashinnoe-obuchenie.md",
-    "teoriia-avtomaticheskogo-upravleniia.md",
-    "tipovie-avtomaticheskie-sistemi-regulirovaniya.md",
     "zashita-intelektualnoy-sobstvennosti.md",
+    "files/Pasted image 20251003131516.png",
+    "files/Pasted image 20251003124404.png",
+    "tipovie-avtomaticheskie-sistemi-regulirovaniya.md",
+    "files/IMG_20251001_185928473.jpg",
+    "files/Pasted image 20251001184246.png",
+    "files/IMG_20251001_175702899.jpg",
+    "robototechnika-i-mehanika.md",
+    "files/Pasted image 20250930104021.png",
+    "files/Pasted image 20250930103919.png",
+    "files/Pasted image 20250930103838.png",
+    "files/Pasted image 20250930103727.png",
+    "Mashinnoe-obuchenie.md",
+    "optimalnoe-upravlenie.md",
+    "files/Pasted image 20250926125255.png",
+    "teoriia-avtomaticheskogo-upravleniia.md",
     "informatsionnoe-obespechenie-sistem-upravlenii.md",
     "ekonomika-i-organizacia-proizvodstva.md",
     "intelectualnie-sistemy-i-tehnologii.md",
     "index.md",
-    "optimalnoe-upravlenie.md",
     "tau-laby.md",
     "Презентация.md",
     "Диаграмма классов.md",
